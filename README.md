@@ -1,13 +1,14 @@
 # 👩🏻‍💻 Bianca Oliveira
 
-`|Dev in construction.. 📚| `
+**`|Dev in construction.. 📚| `**
 
 ```
 Welcome! 
 My name is Bianca and I’m from the "Land of Drizzle" São Paulo.
 I have a technical degree in Accounting and am currently pursuing a degree in Systems Analysis and Development.
 
-Here, I share projects and insights from my journey transitioning into the Tech field. I have experience in the corporate world and a strong interest in data analysis, backend development, and databases.
+Here, I share projects and insights from my journey transitioning into the Tech field.
+I have experience in the corporate world and a strong interest in data analysis, backend development, and databases.
 ```
 
 ---
@@ -17,7 +18,8 @@ Here, I share projects and insights from my journey transitioning into the Tech 
 Seja muito bem-vindo! Me chamo Bianca, tenho 30 anos e sou da terra da garoa, São Paulo. 
 Sou formada no curso técnico em contabilidade e atualmente estou cursando Análise e Desenvolvimento de Sistemas - ADS.
 
-Aqui compartilho projetos e aprendizados da minha jornada de transição para a área de Tecnologia. Tenho experiência no mundo corporativo e um forte interesse em análise de dados, desenvolvimento backend e banco de dados.
+Aqui compartilho projetos e aprendizados da minha jornada de transição para a área de Tecnologia.
+Tenho experiência no mundo corporativo e um forte interesse em análise de dados, desenvolvimento backend e banco de dados.
 ```
 
 <p align="left">
