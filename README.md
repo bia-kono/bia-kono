@@ -74,17 +74,5 @@ I come from a sales background, but lately I’ve been all about data, backend, 
 <br/>
 
 ---
-
-### Minhas estatísticas por aqui:
-
-<p align="center">
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bia-kono&layout=compact&theme=rose_pine&title_color=ffbde6&text_color=e0def4&bg_color=191724&custom_title=Linguagens+mais+usadas" 
-  />
-</p>
-
----
 Obrigada por passar por aqui ❥
 
