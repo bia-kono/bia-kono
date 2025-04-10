@@ -6,7 +6,7 @@
 
 
 
->Oiê! Que bom te ver por aqui 💜. Meu nome é Bianca, sou de São Paulo, a "terra da garoa" ☔, tenho 30 anos e estou em transição de carreira para a área Tech!
+>Oiê! Que bom te ver por aqui 💜. Meu nome é Bianca, sou de São Paulo, a "terra da garoa" ☔ e estou em transição de carreira para a área Tech!
 Sou formada em Técnico de Contabilidade e estou cursando Análise e Desenvolvimento de Sistemas.
 Aqui compartilho tudo o que estou aprendendo — com muito carinho ✨
 Tenho uma bagagem na área comercial e me interesso por dados, backend e banco de dados.
@@ -16,7 +16,7 @@ Tenho uma bagagem na área comercial e me interesso por dados, backend e banco d
 ---
 
 >🌐 Hey there! So happy to see you here 💜. 
-I’m Bianca, borned in São Paulo — yep, the famous “land of drizzle” ☔. I’m 30 and right in the middle of switching careers into the Tech world!
+I’m Bianca, borned in São Paulo — yep, the famous “land of drizzle” ☔ and right in the middle of switching careers into the Tech world!
 I’ve got a tech degree in Accounting and now I’m diving into Systems Analysis and Development.
 This space is where I drop everything I’ve been learning — shared with care and good vibes ✨
 I come from a sales background, but lately I’ve been all about data, backend, and databases.
@@ -45,8 +45,8 @@ I come from a sales background, but lately I’ve been all about data, backend, 
 
 - 👩🏻‍💻 Desenvolvedora em construção com sonhos grandes e coração quentinho 💜  
 - 📚 Estudo com foco em evoluir e conquistar meu espaço na Tech  
-- 🧠 Amo aprender e compartilhar tudo o que descubro nesse caminho 
-- 📈 Evoluindo um commit por vez 
+- 🧠 Amo aprender e compartilhar o que descubro nesse caminho 
+- 📈 Estou evoluindo um commit por vez 
 - 🫧 Aprendendo, errando, refatorando… 
 - 💻 Tenho um carinho especial por: **análise de dados**, **desenvolvimento backend** e **banco de dados**  
 
@@ -54,7 +54,7 @@ I come from a sales background, but lately I’ve been all about data, backend, 
 ---
 
 ```
-🔗 Este é um espaço de estudos em constante evolução então fique à vontade para acompanhar minha evolução, deixar um feedback, ou até contribuir por aqui!
+🤝 Este é um espaço de estudos em constante evolução então fique à vontade para acompanhar minha evolução, deixar um feedback, ou até contribuir por aqui!
 ```
 
 ---
