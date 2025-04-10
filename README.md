@@ -41,13 +41,12 @@ I come from a sales background, but lately I’ve been all about data, backend, 
 
 ---
 
-### ✨ Sobre mim:
+### 🫧 Sobre mim:
 
 - 👩🏻‍💻 Desenvolvedora em construção com sonhos grandes e coração quentinho 💜  
 - 📚 Estudo com foco em evoluir e conquistar meu espaço na Tech  
 - 🧠 Amo aprender e compartilhar o que descubro nesse caminho 
-- 📈 Estou evoluindo um commit por vez 
-- 🫧 Aprendendo, errando, refatorando… 
+- 📈 Aprendendo, errando, refatorando e evoluindo um commit por vez
 - 💻 Tenho um carinho especial por: **análise de dados**, **desenvolvimento backend** e **banco de dados**  
 
 
