@@ -5,6 +5,7 @@
 ### **| Dev em construção...  👩🏻‍💻  |**
 
 
+####
 Oiê! Que bom te ver por aqui 💜.
 Meu nome é Bianca, sou natural de São Paulo, a "terra da garoa" ☔, e estou em transição de carreira para a área de **Tech**!
 Sou formada como Técnica em Contabilidade e agora estou cursando Análise e Desenvolvimento de Sistemas.
@@ -13,7 +14,7 @@ Tenho experiência na área comercial e me interesso por dados, backend e banco 
 No momento, estou estudando **Python** e compartilhando todo o progresso no repositório **python_course**.
 
 **\#MulheresNaTecnologia**
-
+####
 ---
 
 >🌐 Hey there! So happy to see you here 💜.
